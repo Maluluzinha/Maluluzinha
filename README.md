@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maluluzinha
 - 👀 I’m interested in games, series, animes(some) and drawing, now learnig digital art.
-- 🌱 I’m currently learning c++ for collage
-- 💞️ I’m looking to collaborate on: i don't know yet
+- 🌱 I’m currently learning c++ for college
+- 💞️ I’m looking to collaborate on: microcontroller implementation
 - 📫 How to reach me: dm me on twitter @malulu1604
 
 <!---
